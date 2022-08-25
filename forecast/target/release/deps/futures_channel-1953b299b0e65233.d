@@ -1,0 +1,11 @@
+C:\Users\legen\Documents\rust-fcc\forecast\target\release\deps\futures_channel-1953b299b0e65233.rmeta: C:\Users\legen\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.23\src\lib.rs C:\Users\legen\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.23\src\lock.rs C:\Users\legen\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.23\src\mpsc\mod.rs C:\Users\legen\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.23\src\mpsc\queue.rs C:\Users\legen\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.23\src\oneshot.rs
+
+C:\Users\legen\Documents\rust-fcc\forecast\target\release\deps\libfutures_channel-1953b299b0e65233.rlib: C:\Users\legen\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.23\src\lib.rs C:\Users\legen\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.23\src\lock.rs C:\Users\legen\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.23\src\mpsc\mod.rs C:\Users\legen\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.23\src\mpsc\queue.rs C:\Users\legen\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.23\src\oneshot.rs
+
+C:\Users\legen\Documents\rust-fcc\forecast\target\release\deps\futures_channel-1953b299b0e65233.d: C:\Users\legen\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.23\src\lib.rs C:\Users\legen\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.23\src\lock.rs C:\Users\legen\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.23\src\mpsc\mod.rs C:\Users\legen\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.23\src\mpsc\queue.rs C:\Users\legen\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.23\src\oneshot.rs
+
+C:\Users\legen\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.23\src\lib.rs:
+C:\Users\legen\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.23\src\lock.rs:
+C:\Users\legen\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.23\src\mpsc\mod.rs:
+C:\Users\legen\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.23\src\mpsc\queue.rs:
+C:\Users\legen\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.23\src\oneshot.rs:

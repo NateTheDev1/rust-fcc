@@ -1,0 +1,13 @@
+C:\Users\legen\Documents\rust-fcc\forecast\target\release\deps\url-136e73d1c6c03f59.rmeta: C:\Users\legen\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.2\src\lib.rs C:\Users\legen\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.2\src\host.rs C:\Users\legen\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.2\src\origin.rs C:\Users\legen\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.2\src\parser.rs C:\Users\legen\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.2\src\path_segments.rs C:\Users\legen\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.2\src\slicing.rs C:\Users\legen\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.2\src\quirks.rs
+
+C:\Users\legen\Documents\rust-fcc\forecast\target\release\deps\liburl-136e73d1c6c03f59.rlib: C:\Users\legen\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.2\src\lib.rs C:\Users\legen\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.2\src\host.rs C:\Users\legen\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.2\src\origin.rs C:\Users\legen\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.2\src\parser.rs C:\Users\legen\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.2\src\path_segments.rs C:\Users\legen\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.2\src\slicing.rs C:\Users\legen\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.2\src\quirks.rs
+
+C:\Users\legen\Documents\rust-fcc\forecast\target\release\deps\url-136e73d1c6c03f59.d: C:\Users\legen\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.2\src\lib.rs C:\Users\legen\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.2\src\host.rs C:\Users\legen\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.2\src\origin.rs C:\Users\legen\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.2\src\parser.rs C:\Users\legen\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.2\src\path_segments.rs C:\Users\legen\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.2\src\slicing.rs C:\Users\legen\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.2\src\quirks.rs
+
+C:\Users\legen\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.2\src\lib.rs:
+C:\Users\legen\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.2\src\host.rs:
+C:\Users\legen\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.2\src\origin.rs:
+C:\Users\legen\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.2\src\parser.rs:
+C:\Users\legen\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.2\src\path_segments.rs:
+C:\Users\legen\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.2\src\slicing.rs:
+C:\Users\legen\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.2\src\quirks.rs:
